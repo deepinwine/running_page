@@ -10,7 +10,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://jiangjia.run/running',
+        url: 'https://www.sport.gov.cn/n20001280/n20001265/n20066978/c24942678/content.html',
       },
       {
         name: 'About',
