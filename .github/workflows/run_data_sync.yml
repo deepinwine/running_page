@@ -24,7 +24,7 @@ env:
   RUN_TYPE: garmin_cn # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava/strava_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/codoon, Please change the 'pass' it to your own
   ATHLETE: jiangjia
   TITLE: jiangjia Running
-  MIN_GRID_DISTANCE: 10 # change min distance here
+  MIN_GRID_DISTANCE: 2 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
   GITHUB_NAME: deepinwine # change to yours
   GITHUB_EMAIL: jiangjia0907@gmail.com # change to yours
