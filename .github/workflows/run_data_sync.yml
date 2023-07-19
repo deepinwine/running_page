@@ -25,7 +25,7 @@ env:
   ATHLETE: jiangjia
   TITLE: jiangjia Running
   MIN_GRID_DISTANCE: 2 # change min distance here
-  TITLE_GRID: Over 10km Runs # also here
+  TITLE_GRID: Over 2km Runs # also here
   GITHUB_NAME: deepinwine # change to yours
   GITHUB_EMAIL: jiangjia0907@gmail.com # change to yours
 
