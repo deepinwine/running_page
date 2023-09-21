@@ -10,7 +10,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://www.sport.gov.cn/n20001280/n20001265/n20066978/c24942678/content.html',
+        url: 'https://space.bilibili.com/363847572?spm_id_from=333.337.0.0',
       },
       {
         name: 'About',
