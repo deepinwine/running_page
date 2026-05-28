@@ -26,7 +26,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://www.baidu.com',
+      url: 'https://blog.ipenguin.site',
     },
     {
       name: 'About',
